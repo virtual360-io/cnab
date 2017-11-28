@@ -1,6 +1,6 @@
 # Cnab
 
-[![Gem Version](https://badge.fury.io/rb/cnab.png)](http://badge.fury.io/rb/cnab) [![Build Status](https://travis-ci.org/plribeiro3000/cnab.png)](https://travis-ci.org/plribeiro3000/cnab) [![Coverage Status](https://coveralls.io/repos/plribeiro3000/cnab/badge.png?branch=master)](https://coveralls.io/r/plribeiro3000/cnab) [![Code Climate](https://codeclimate.com/github/plribeiro3000/cnab.png)](https://codeclimate.com/github/plribeiro3000/cnab)
+[![Gem Version](https://badge.fury.io/rb/cnab.svg)](https://badge.fury.io/rb/cnab) [![Build Status](https://travis-ci.org/plribeiro3000/cnab.svg?branch=master)](https://travis-ci.org/plribeiro3000/cnab) [![Coverage Status](https://coveralls.io/repos/github/plribeiro3000/cnab/badge.svg?branch=master)](https://coveralls.io/github/plribeiro3000/cnab?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/b609fde34c18e9c6c71d/maintainability)](https://codeclimate.com/github/plribeiro3000/cnab/maintainability)
 
 Gem used to parse return from Brazil banks in format of cnab files.
 Right now it has support only for Segmento T and Segmento U. By default, it will parse based on the version 08.7.
