@@ -28,6 +28,7 @@ module Cnab
           trailer_lote = Line.new(line, definition.trailer_lote)
           break
         end
+
         if merge
           detalhes << Detalhe.merge(line, f.gets, definition)
         else
