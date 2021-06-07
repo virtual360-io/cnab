@@ -5,7 +5,7 @@ filler_a: 8..16
 tipo_inscr_empresa: 17..17
 num_inscr_empresa: 18..31
 cod_convenio_banco: 32..51
-ag_mantenedora_sonta: 52..56
+ag_mantenedora_conta: 52..56
 dig_verif_agencia: 57..57
 num_conta_corrente: 58..69
 dig_verif_conta: 70..70
