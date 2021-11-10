@@ -1,0 +1,8 @@
+banco: 0..2
+lote: 3..6
+registro: 7..7
+brancos1: 8..16
+qtd_registros: 17..22
+valor_titulos_cobranca: 23..40
+qtd_moeda: 41..58
+brancos2: 59..239
