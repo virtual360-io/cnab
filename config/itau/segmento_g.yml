@@ -10,12 +10,12 @@ cod_moeda_cod_barras: 20..20
 dv_cod_barras: 21..21
 fator_vencimento: 22..25
 valor: 26..35
-campo_livre: 36..60
+codigo_barras: 36..60
 cod_inscricao_cedente: 61..61
 num_inscricao_cedente: 62..76
 nome_cedente: 77..106
-vencimento: 107..114
-valor_titulo: 115..129
+data_vencimento_titulo: 107..114
+valor_nominal_titulo: 115..129
 quantidade_moeda: 130..144
 cod_moeda: 145..146
 num_documento: 147..161
