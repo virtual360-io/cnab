@@ -11,6 +11,7 @@ dv_cod_barras: 21..21
 fator_vencimento: 22..25
 valor: 26..35
 campo_livre: 36..60
+codigo_barras: 17..60
 cod_inscricao_cedente: 61..61
 num_inscricao_cedente: 62..76
 nome_cedente: 77..106
